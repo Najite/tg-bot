@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
 # Telegram Bot Token
-BOT_TOKEN = "7519173634:AAHRpwcgHCmPYaQyT4HNEfaHMLX_O4gVx-o"
+BOT_TOKEN = "7811952273:AAG_af2nxfYHlLgZfZL9N2NQ76Y-bRlvz64"
 
 # PhishTank API (You need to register for a free API key)
 PHISHTANK_API_URL = "https://safebrowsing.googleapis.com/v4/threatMatches:find?key="
